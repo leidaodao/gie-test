@@ -7,4 +7,8 @@ public class Test01 {
         System.out.println("你真牛皮");
         System.out.println("你真有钱");
     }
+    public void test(){
+        int a=0;
+        System.out.println(a);
+    }
 }
